@@ -2,9 +2,9 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import todoImg from '/public/assets/projects/todo.jpg';
-import weatherImg from '/public/assets/projects/weather.jpg';
-import cryptoImg from '/public/assets/projects/crypto.jpg';
-import fetchImg from '/public/assets/projects/fetch.jpg';
+import weatherImg from '/public/assets/projects/weather.JPG';
+import cryptoImg from '/public/assets/projects/crypto.JPG';
+import fetchImg from '/public/assets/projects/fetch.JPG';
 // import ProjectList from './ProjectList';
 
 const Projects = () => {
